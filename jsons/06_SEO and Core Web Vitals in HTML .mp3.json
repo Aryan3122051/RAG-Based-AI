@@ -1,0 +1,1034 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 0.0,
+            "end": 2.72,
+            "text": " आज के इस वीडियो में हम लोग Core Web Vitals के बारे में जानेंगे"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 2.72,
+            "end": 5.12,
+            "text": " और ये जानेंगे कि क्यों Core Web Vitals जरूर ही होते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 5.12,
+            "end": 7.92,
+            "text": " इस वीडियो को लाइक जरूर कर देना और हाई नर्जी को बरगरार रखना"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 7.92,
+            "end": 10.24,
+            "text": " बात कुछ ये होती है कि जो आपकी वेबसाइट है वो"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 10.24,
+            "end": 14.16,
+            "text": " आईपड में, आईफोन में, आपके अंड्रॉइट फोन में, सरफिस प्रो फोर में"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 14.16,
+            "end": 16.08,
+            "text": " सब के सब डिवाइसे में चलनी चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 16.08,
+            "end": 20.08,
+            "text": " क्योंकि हमें अपनी वेबसाइट के थुरू ओवरॉल सारे यूजर्स को एक अच्छा एक्सपीरियस देना है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 20.08,
+            "end": 24.64,
+            "text": " इस वीडियो में ये भी जानेंगे कि क्रोम के अंदर एक इडिन टूल होता है जिसका नाम लाइट हाउस होता है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 24.64,
+            "end": 28.4,
+            "text": " और किस सरासे आप उसको अपनी वेबसाइट को इनहांस करने में इस्तिमाल कर सकते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 28.4,
+            "end": 31.119999999999997,
+            "text": " तो नीचे कॉमेंट सेक्चर में लिग देना सिगमा बैच ओपी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 50.96,
+            "end": 54.72,
+            "text": " वीडियो 6 के अंदर मैं वीएस कोड को खोल लूँगा एस आल्बिस"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 54.72,
+            "end": 59.2,
+            "text": " और आज मैं जो चीज आपको बताने वाला हूँ वो सबसे पहले से एसीउ का इस्पेक्ट से बहुत ज़ादाँ इंपोर्टंट है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 59.2,
+            "end": 61.04,
+            "text": " सबसे पहले मैं आपको बताना जाता हूँ एसीउ क्या होता है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 61.04,
+            "end": 63.04,
+            "text": " सबसे पहले आपको बताने वाला हूँ एसीउ का इस्पेक्ट से बहुत ज़ादाँ इंपोर्टंट है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 91.04,
+            "end": 93.04,
+            "text": " आपको बताने वाला हूँ एसीउ का इस्पेट्स को भी निर्फ़ने कर सकते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 121.04,
+            "end": 123.04,
+            "text": " तब आपके कोर वेब वाइटल्स"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 123.04,
+            "end": 125.04,
+            "text": " देखे जाएंगे और अगर आपके कोर वेब"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 125.04,
+            "end": 127.04,
+            "text": " वाइटल्स अच्छे हैं तो आपको"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 127.04,
+            "end": 129.04000000000002,
+            "text": " प्रेफरेंस दी जाएगी तो कोर वेब वाइटल्स में"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 129.04000000000002,
+            "end": 131.04000000000002,
+            "text": " सबसे पहले आता है आपका CLS"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 131.04000000000002,
+            "end": 133.04000000000002,
+            "text": " आप इस वीडियो को यहांपर देखो जो कि मैंने"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 133.04,
+            "end": 137.04,
+            "text": " पर देखो गई कोई आता है आपकी वेब साइट पर और वो यहांपर"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 137.04,
+            "end": 139.04,
+            "text": " कैंसल करने के चक्कर में ओडर और गलती से"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 139.04,
+            "end": 141.04,
+            "text": " जितनी जिर में उसने कैंसल किया उपर की"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 141.04,
+            "end": 143.04,
+            "text": " यह चीज विजिबल हो गई और इसने लेयाउट को"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 143.04,
+            "end": 145.04,
+            "text": " शिफ्ट कर दिया और ओडर कमप्लीट हो गया लेकिन"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 163.04,
+            "end": 165.04,
+            "text": " यह पहले उपर था और उसके बाद जब यह लोड हुआ"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 165.04,
+            "end": 167.04,
+            "text": " की टर्म वाला पार्ट तो यह शिफ्ट हो गया"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 167.04,
+            "end": 169.04,
+            "text": " सब कुछ नीचे लेयाउट शिफ्ट नहीं होना चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 169.04,
+            "end": 171.04,
+            "text": " अगर आप लोग इमेजेस में विट और हाइट लगाते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 172.04,
+            "end": 174.04,
+            "text": " अगला मेट्रिक जिसकी बात हम करने जा रहे हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 174.04,
+            "end": 175.04,
+            "text": " वो है LCP"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 175.04,
+            "end": 177.04,
+            "text": " और LCP स्टेंड्स वो लाजस्ट कॉंटेक्श्चॉल पेंट"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 177.04,
+            "end": 180.04,
+            "text": " इसका बतलब हुआ की यूजर अगर एक पेज़ व्यूँ कर रहा है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 180.04,
+            "end": 181.04,
+            "text": " तो उस पे सबसे बड़ा जो एलिमेंट है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 181.04,
+            "end": 191.04,
+            "text": " पुरा पेज़ थो लोड होगा ही लेकिं जो सबसे बड़ा दिक्षिते भी लोड हो रहा है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 191.04,
+            "end": 195.04,
+            "text": " वेब डॉर डेव और गोगल की माने थो एक अच्छा LCP सकोड 2.5 सेकिंड्स होना चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 195.04,
+            "end": 198.44,
+            "text": " आणि कि 2.5 सेकिन्ड में सबसे बड़ा एलिमेंट पेज़ का लोड हो जाना चाहिए।"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 198.44,
+            "end": 200.95999999999998,
+            "text": " इसके बाद आता है तीसरा मेट्रिक, जो है FID,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 200.95999999999998,
+            "end": 202.95999999999998,
+            "text": " जो पर पहला इंपुट डिले का बात है।"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 202.95999999999998,
+            "end": 205.44,
+            "text": " पहला इंपुट डिले का मतलब यह है कि किसी भी उसर ने"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 235.44,
+            "end": 237.44,
+            "text": " पर पहला इंपुट डिले का बात है।"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 265.44,
+            "end": 267.44,
+            "text": " मुझे बड़ें जो काई काम रहे है।"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 267.44,
+            "end": 271.44,
+            "text": " मैं देश्टटॉप पर क्लिक करोंगा,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 271.44,
+            "end": 273.44,
+            "text": " मैं इस टाब को बंद करोंगा,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 273.44,
+            "end": 275.44,
+            "text": " मैं मुझे मुझे अनेलिज पेज़ लोड करोंगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 275.44,
+            "end": 277.44,
+            "text": " तो यह एक रिपूर्ट जनरेट करेगी,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 277.44,
+            "end": 279.44,
+            "text": " आप लोग यहाँ पर देख सकते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 295.44,
+            "end": 297.84,
+            "text": " इसे सारे suggestions आपको दिये जाते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 297.84,
+            "end": 298.84,
+            "text": " Lighthouse के दुआरा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 298.84,
+            "end": 301.44,
+            "text": " और आप अगर इन suggestions को incorporate करोगे"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 301.44,
+            "end": 303.64,
+            "text": " तो आपकी website काफी बढ़िया"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 303.64,
+            "end": 306.04,
+            "text": " लोड होगी और user को अच्छा experience देखी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 306.04,
+            "end": 307.24,
+            "text": " अब आप देख सकते हैं यहाँ पर लिखा है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 307.24,
+            "end": 309.44,
+            "text": " image elements do not have explicit width and height"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 309.44,
+            "end": 311.44,
+            "text": " तो आपको width and height देनी चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 311.44,
+            "end": 313.04,
+            "text": " image का जो width and height attribute है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 314.04,
+            "end": 315.04,
+            "text": " विडियो में पड़ा था वो उसका पर लिखा है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 315.04,
+            "end": 318.24,
+            "text": " ता कि आपके ब्राॉजर में रिजर्व हो जाए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 318.24,
+            "end": 320.24,
+            "text": " जब हम HTML में width and height बात करते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 320.24,
+            "end": 321.84000000000003,
+            "text": " तो ब्राॉजर में रिजर्व हो जाती है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 321.84000000000003,
+            "end": 324.24,
+            "text": " वरना अगर हम लोग height and width बात करने के लिए नहीं करेंगे"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 324.24,
+            "end": 325.04,
+            "text": " तो क्या होगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 325.04,
+            "end": 327.04,
+            "text": " जो ब्राॉजर होगा हमारा उसको बता नहीं चलेगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 327.04,
+            "end": 329.04,
+            "text": " कितनी space रिजर्व करनी है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 329.04,
+            "end": 331.04,
+            "text": " और जितनी देर में CSS लोड होगी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 331.04,
+            "end": 333.04,
+            "text": " एकडम से नीचे को सारा page शिफ्ट हो जाएगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 333.04,
+            "end": 335.04,
+            "text": " तो हम नहीं चाहते कि हमारा page loading टाइम में शिफ्ट हो"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 335.04,
+            "end": 337.04,
+            "text": " तो जितनी देर में नहीं चलेगा कि इस पाइब बना जाएगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 337.04,
+            "end": 339.04,
+            "text": " तो हम अगर यहाँ पर खिलिक करने वाले हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 339.04,
+            "end": 341.04,
+            "text": " तो गलती से जब यह शिफ्ट हो जाएगा नीचे तो हो सकता है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 341.04,
+            "end": 343.04,
+            "text": " हम यहाँ पर खिलिक कर बैठें"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 343.04,
+            "end": 345.04,
+            "text": " मानलो यहाँ पर एक image आने वाली थी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 345.04,
+            "end": 347.04,
+            "text": " इस पाइब के लिए जब यह नहीं चलेगा तो जितनी देर में नहीं खिलिक कर देखा था"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 347.04,
+            "end": 349.04,
+            "text": " तो यह पर खिलिक कर देखा था"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 349.04,
+            "end": 351.04,
+            "text": " और यह सारा content नीचे शिफ्ट हो गया"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 351.04,
+            "end": 353.04,
+            "text": " और गलती से यहाँ खिलिक करने के बज़ाए मैं image पर खिलिक कर दूँगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 353.04,
+            "end": 355.04,
+            "text": " इसे कहते हैं cumulative layout shift"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 355.04,
+            "end": 357.04,
+            "text": " इस पाइब के लिए जब यह नहीं खिलिक कर देखा था"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 357.04,
+            "end": 359.04,
+            "text": " तो यह पर खिलिक कर देखा था"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 359.04,
+            "end": 361.04,
+            "text": " और यह कम से कम होना चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 361.04,
+            "end": 363.04,
+            "text": " आप देख सकते हैं इस पाइब का काफी कम है cumulative layout shift"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 363.04,
+            "end": 365.04,
+            "text": " तो cumulative layout shift को कम से कम हमें रखना है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 365.04,
+            "end": 367.04,
+            "text": " ताकि हमारे user को एक बहुत अच्छा experience मिल सके"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 367.04,
+            "end": 369.04,
+            "text": " तो यहाँ पर और भी बहुत सारी suggestions मिलती हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 369.04,
+            "end": 371.04,
+            "text": " और यह हमारी mobile के लिए है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 371.04,
+            "end": 373.04,
+            "text": " अब हम desktop report generate कर सकते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 373.04,
+            "end": 375.04,
+            "text": " तो desktop report generate हो जाएगी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 375.04,
+            "end": 377.04,
+            "text": " तो जब आप देख सकते हो कि इसने एक report generate कर दिये"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 377.04,
+            "end": 379.04,
+            "text": " पर्फॉर्मेस में 92 marks"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 379.04,
+            "end": 381.04,
+            "text": " accessibility में 100 में से 82 दिये गए हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 381.04,
+            "end": 383.04,
+            "text": " best practices में 75, SEO में 75"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 383.04,
+            "end": 385.04,
+            "text": " आप यहाँ पर देखो कि जो जो चीज़े अच्छी आच्छी हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 385.04,
+            "end": 387.04,
+            "text": " वो बताई गई हैं यहाँ पर और जो जो"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 387.04,
+            "end": 389.04,
+            "text": " scope of improvement से light house आपको बताते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 389.04,
+            "end": 391.04,
+            "text": " तो यह एक hidden tool है जो कि आप सभी को"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 391.04,
+            "end": 393.04,
+            "text": " इस्तिमाल करना चाहिए, अब मैं आप लोगों को बताना चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 393.04,
+            "end": 395.04,
+            "text": " meta tags और meta description के बारे में"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 395.04,
+            "end": 397.04,
+            "text": " मैं आपर क्या करूँगा कि एक नई फाइल बनाऊंगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 397.04,
+            "end": 399.04,
+            "text": " उसका राम रखूँगा index.html"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 399.04,
+            "end": 401.04,
+            "text": " और एक HTML फाइल बनाने के बाद"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 401.04,
+            "end": 403.04,
+            "text": " यह सबसे पहला SEO एलिमेंट मैं आपको बताना चाहिए"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 403.04,
+            "end": 405.04,
+            "text": " वो है title आपका title आपके"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 405.04,
+            "end": 407.04,
+            "text": " page के content को reflect अगर कर रहा है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 407.04,
+            "end": 409.04,
+            "text": " तो यह काफी अच्छी SEO practice है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 409.04,
+            "end": 411.04,
+            "text": " जब जब आपका page चेंज हो रहा है आप title को इस तरह से बनाओंगा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 411.04,
+            "end": 413.04,
+            "text": " कि वो आपके page के content को reflect करे"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 413.04,
+            "end": 415.04,
+            "text": " क्योंकि अगर आप लोग Google पर अपनी website चाहते हो"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 415.04,
+            "end": 417.04,
+            "text": " तो वो title के इसाफसे आईगी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 417.04,
+            "end": 419.04,
+            "text": " जो Google की index है जब आप लोग मान लो"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 419.04,
+            "end": 421.04,
+            "text": " यहांपर लिखते हो code with Harry"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 451.04,
+            "end": 453.04,
+            "text": " तो मैं लोरेम 45 क्यों लिखा"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 453.04,
+            "end": 455.04,
+            "text": " मैं view word rap कर लेता हूँ"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 455.04,
+            "end": 457.04,
+            "text": " तो 45 क्यों लिखा यह बहुत अच्छा वाल है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 457.04,
+            "end": 459.04,
+            "text": " 45 मैंना इसलिए लिखा कि मैं आलसी हूँ"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 459.04,
+            "end": 461.04,
+            "text": " और 4 or 5 आसपास होते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 461.04,
+            "end": 463.04,
+            "text": " तो 23 भी लिखता हूँ"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 463.04,
+            "end": 465.04,
+            "text": " तो और कोई वज़ाँ नहीं है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 465.04,
+            "end": 495.04,
+            "text": " यहाँ पर ओपेन इन ब्राॉजर करूँगा, तो यह देखो यह कुछ इस तरहाँ से देख रहा है, अब यह डॉक्यूमेंट लिखा हुआ, अगर मैंने ऐसा ही छोड़ दिया इसको, तो यह एची वो प्राक्टिस नहीं होगी, मैं आपर मनलो, about Harry लिख दूँगा, और यहा�"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 495.04,
+            "end": 497.32,
+            "text": " मुझे इंप्रूव करनी चाहिए, लेकिन जब मैं इमेजेज वग़ेरा डालोंगा,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 497.32,
+            "end": 500.64000000000004,
+            "text": " तो मुझे सजेश्ट्ट्वन मिलेंगी, जैसे की विट्थ डाल दो, हाइट डाल दो,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 500.64000000000004,
+            "end": 503.64000000000004,
+            "text": " उससे के साथ साथ, आपको एक और ट्रिक बताता हूं, मैं जिससे की आप"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 503.64,
+            "end": 507.64,
+            "text": " किसी भी मुझे आपकी वैपसाइट कैसे दिखती है, यह आपको पता चल पाएगा,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 507.64,
+            "end": 510.44,
+            "text": " तो आप लोग यहाँ पर क्लिक करें, यह दिखर रहा है आपको यहाँ पर कंप्यूटर,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 510.44,
+            "end": 513.64,
+            "text": " इस पर क्लिक करें, और इसके बाद अगर आप इसमें रेस्पॉंसिव चुनते हैं,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 513.64,
+            "end": 517.64,
+            "text": " तो आप देख सकते हो कि किसी भी तरह के डेवाइज में कैसी आपकी वैपसाइट दिखेगी,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 517.64,
+            "end": 521.64,
+            "text": " तो आपकी वैपसाइट रेष्पॉंसिव है कि नहीं, यह आप यहाँ पर देख सकते हैं ऐसे करके,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 521.64,
+            "end": 549.64,
+            "text": " आपकी वैपसाइट आपकी वैपसाइट कैसी दिखेगी, यह आपको बता लग सकता है,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 549.64,
+            "end": 579.64,
+            "text": " आप एक जर्मनल विव लेना चाहते हो, अपकी वैपसाइट रेष्पॉंसिव डेवाइज में, किसी भी तरह के डेवाइज में, बालो आईपड में किस चारा से दिखेगी, तो आप यहाँ पर अगर आपका डेवाइज नहीं है, तो आप रेष्पॉंसिव चुन के अपन"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 579.64,
+            "end": 585.64,
+            "text": " पर ज़ेसे ही लिखोंगा, तो देखो यहाँ पर मेटा डी एस्सी आ रहा है, टीके, मेटा डी एस्सी पर क्लिक करूँगा, और यहाँ पर मैं अपने पेज का डिस्कृप्षिण दे सकता हूँ,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 585.64,
+            "end": 615.64,
+            "text": " मालों मैं देता हूँ, यह पेज है, यह पेज अबाउट है, यह पेज पर डिस्कृप्षिण दे सकता है, अबाउट है, हैरी, ठीक है, और यहाँ पर आपका जो भी पेज कॉंटेंड है, वो आप लिख दो, जो भी आप चाहते हो, जैसे कि मैं आपको दिखाते हूँ, माल"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 615.64,
+            "end": 618.92,
+            "text": " लेगा आपके मैटा डी एस्सी को, अगर आपने नहीं डाला है मैटा डी एस्सी, तो आपके"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 618.92,
+            "end": 622.12,
+            "text": " गंटेंड से भी जेनेरेट किया जा सकता है मैटा डी एस्सी, तो यह सर्च इंजन की"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 622.12,
+            "end": 625.72,
+            "text": " जिंबदारी होती है, Bing क्या करेगा, Google क्या करेगा, यह हमें नहीं पता, बट हमारी"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 625.72,
+            "end": 629.88,
+            "text": " तरफ से हमारा पेच एकड़म टू दा पॉइंट होना चाहिए, खासकर अगर हम ब्लॉग लिख रहे हैं, और हम चाहते हैं"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 629.88,
+            "end": 635.24,
+            "text": " कि हमारा और गैनिकली रैंक करे पेच तो, तो यहाँ पर आप देख सकते हों कि मैटा डी एस्सी मैंने लगाया, अब"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 665.88,
+            "end": 681.72,
+            "text": " आपका ग्रेंग की वालियो देरा है, उसको समझा जायेगा, उसी इससाब से रैंक किया जाएगा, अब अगर आपको exactly इन"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 681.72,
+            "end": 689.0,
+            "text": " कोर वैब वाइटल्स के बारे में जानना है, फ़र इक्जामपल अगर मैं right-click करके inspect करूं और light house में जाओं और desktop के लिए light house report निकालूं, तो कुछ"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 689.0,
+            "end": 719.0,
+            "text": " कोर वैब वैटल्स आते हैं, जब कि एल सी पी आता है, फिर उसके बाद fcp आता है, फर्स्ट कॉंटेक्श्यॉल पेंट, अब आप यहां पर देशें तो सब कुछ सौ सौ सौ सौ हो रखा है, यहां पर देखो, अभी इस content में कुछ जाधा था नहीं, लेकिन यहां पर आप"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 719.0,
+            "end": 730.98,
+            "text": " खिल है, उसके पैन्टा, क्योंकोन सफ लियाओट चाद, हई"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 731.02,
+            "end": 740.76,
+            "text": " फोना खեռब, वैप डेव में गरना होगा, जानने के बाchn, और आप तक पुले, जिस से कहे,"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 740.76,
+            "end": 749.72,
+            "text": " इन सब चीजों के बारे में यहाँ पर बहुत चीजों डला हुआ है"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 749.72,
+            "end": 753.88,
+            "text": " लेकिन हम इस कोडस के अंदर HTML, CSS, JavaScript और Websites बनाने में फोकुस करेंगे"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 753.88,
+            "end": 757.72,
+            "text": " यह चीज मेरे जाब से आप लोगों को आनी चीज हैं जिसकी वज़ेसे मैंने आप लोगों को इसके बारे में बताया"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 757.72,
+            "end": 762.84,
+            "text": " अगर आप लोगों ने अभी तक Sigma Web Development सीरीज को आक्सेस नहीं किया है तो उसको जरूर से आक्सेस कर देना"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 762.84,
+            "end": 767.6800000000001,
+            "text": " प्लेलिएस्ट को आक्सेस कर गे, बुकमार्ग कर लेना, यहाँ क्लिक कर के स्टार पर और यहाँ क्लिक कर के सेफ कर लेना"
+        },
+        {
+            "number": "6",
+            "title": "SEO and Core Web Vitals in HTML ",
+            "start": 767.68,
+            "end": 773.28,
+            "text": " अब इस वीडियो में इतने है गएज, आपको बहुत ख़ुशत रहे हैं जब वीडियो ने परचार करते हैं और मैं आपको बारे में आपको परचार करें"
+        }
+    ],
+    "text": " आज के इस वीडियो में हम लोग Core Web Vitals के बारे में जानेंगे और ये जानेंगे कि क्यों Core Web Vitals जरूर ही होते हैं इस वीडियो को लाइक जरूर कर देना और हाई नर्जी को बरगरार रखना बात कुछ ये होती है कि जो आपकी वेबसाइट है वो आईपड में, आईफोन में, आपके अंड्रॉइट फोन में, सरफिस प्रो फोर में सब के सब डिवाइसे में चलनी चाहिए क्योंकि हमें अपनी वेबसाइट के थुरू ओवरॉल सारे यूजर्स को एक अच्छा एक्सपीरियस देना है इस वीडियो में ये भी जानेंगे कि क्रोम के अंदर एक इडिन टूल होता है जिसका नाम लाइट हाउस होता है और किस सरासे आप उसको अपनी वेबसाइट को इनहांस करने में इस्तिमाल कर सकते हैं तो नीचे कॉमेंट सेक्चर में लिग देना सिगमा बैच ओपी वीडियो 6 के अंदर मैं वीएस कोड को खोल लूँगा एस आल्बिस और आज मैं जो चीज आपको बताने वाला हूँ वो सबसे पहले से एसीउ का इस्पेक्ट से बहुत ज़ादाँ इंपोर्टंट है सबसे पहले मैं आपको बताना जाता हूँ एसीउ क्या होता है सबसे पहले आपको बताने वाला हूँ एसीउ का इस्पेक्ट से बहुत ज़ादाँ इंपोर्टंट है आपको बताने वाला हूँ एसीउ का इस्पेट्स को भी निर्फ़ने कर सकते हैं तब आपके कोर वेब वाइटल्स देखे जाएंगे और अगर आपके कोर वेब वाइटल्स अच्छे हैं तो आपको प्रेफरेंस दी जाएगी तो कोर वेब वाइटल्स में सबसे पहले आता है आपका CLS आप इस वीडियो को यहांपर देखो जो कि मैंने पर देखो गई कोई आता है आपकी वेब साइट पर और वो यहांपर कैंसल करने के चक्कर में ओडर और गलती से जितनी जिर में उसने कैंसल किया उपर की यह चीज विजिबल हो गई और इसने लेयाउट को शिफ्ट कर दिया और ओडर कमप्लीट हो गया लेकिन यह पहले उपर था और उसके बाद जब यह लोड हुआ की टर्म वाला पार्ट तो यह शिफ्ट हो गया सब कुछ नीचे लेयाउट शिफ्ट नहीं होना चाहिए अगर आप लोग इमेजेस में विट और हाइट लगाते हैं अगला मेट्रिक जिसकी बात हम करने जा रहे हैं वो है LCP और LCP स्टेंड्स वो लाजस्ट कॉंटेक्श्चॉल पेंट इसका बतलब हुआ की यूजर अगर एक पेज़ व्यूँ कर रहा है तो उस पे सबसे बड़ा जो एलिमेंट है पुरा पेज़ थो लोड होगा ही लेकिं जो सबसे बड़ा दिक्षिते भी लोड हो रहा है वेब डॉर डेव और गोगल की माने थो एक अच्छा LCP सकोड 2.5 सेकिंड्स होना चाहिए आणि कि 2.5 सेकिन्ड में सबसे बड़ा एलिमेंट पेज़ का लोड हो जाना चाहिए। इसके बाद आता है तीसरा मेट्रिक, जो है FID, जो पर पहला इंपुट डिले का बात है। पहला इंपुट डिले का मतलब यह है कि किसी भी उसर ने पर पहला इंपुट डिले का बात है। मुझे बड़ें जो काई काम रहे है। मैं देश्टटॉप पर क्लिक करोंगा, मैं इस टाब को बंद करोंगा, मैं मुझे मुझे अनेलिज पेज़ लोड करोंगा तो यह एक रिपूर्ट जनरेट करेगी, आप लोग यहाँ पर देख सकते हैं इसे सारे suggestions आपको दिये जाते हैं Lighthouse के दुआरा और आप अगर इन suggestions को incorporate करोगे तो आपकी website काफी बढ़िया लोड होगी और user को अच्छा experience देखी अब आप देख सकते हैं यहाँ पर लिखा है image elements do not have explicit width and height तो आपको width and height देनी चाहिए image का जो width and height attribute है विडियो में पड़ा था वो उसका पर लिखा है ता कि आपके ब्राॉजर में रिजर्व हो जाए जब हम HTML में width and height बात करते हैं तो ब्राॉजर में रिजर्व हो जाती है वरना अगर हम लोग height and width बात करने के लिए नहीं करेंगे तो क्या होगा जो ब्राॉजर होगा हमारा उसको बता नहीं चलेगा कितनी space रिजर्व करनी है और जितनी देर में CSS लोड होगी एकडम से नीचे को सारा page शिफ्ट हो जाएगा तो हम नहीं चाहते कि हमारा page loading टाइम में शिफ्ट हो तो जितनी देर में नहीं चलेगा कि इस पाइब बना जाएगा तो हम अगर यहाँ पर खिलिक करने वाले हैं तो गलती से जब यह शिफ्ट हो जाएगा नीचे तो हो सकता है हम यहाँ पर खिलिक कर बैठें मानलो यहाँ पर एक image आने वाली थी इस पाइब के लिए जब यह नहीं चलेगा तो जितनी देर में नहीं खिलिक कर देखा था तो यह पर खिलिक कर देखा था और यह सारा content नीचे शिफ्ट हो गया और गलती से यहाँ खिलिक करने के बज़ाए मैं image पर खिलिक कर दूँगा इसे कहते हैं cumulative layout shift इस पाइब के लिए जब यह नहीं खिलिक कर देखा था तो यह पर खिलिक कर देखा था और यह कम से कम होना चाहिए आप देख सकते हैं इस पाइब का काफी कम है cumulative layout shift तो cumulative layout shift को कम से कम हमें रखना है ताकि हमारे user को एक बहुत अच्छा experience मिल सके तो यहाँ पर और भी बहुत सारी suggestions मिलती हैं और यह हमारी mobile के लिए है अब हम desktop report generate कर सकते हैं तो desktop report generate हो जाएगी तो जब आप देख सकते हो कि इसने एक report generate कर दिये पर्फॉर्मेस में 92 marks accessibility में 100 में से 82 दिये गए हैं best practices में 75, SEO में 75 आप यहाँ पर देखो कि जो जो चीज़े अच्छी आच्छी हैं वो बताई गई हैं यहाँ पर और जो जो scope of improvement से light house आपको बताते हैं तो यह एक hidden tool है जो कि आप सभी को इस्तिमाल करना चाहिए, अब मैं आप लोगों को बताना चाहिए meta tags और meta description के बारे में मैं आपर क्या करूँगा कि एक नई फाइल बनाऊंगा उसका राम रखूँगा index.html और एक HTML फाइल बनाने के बाद यह सबसे पहला SEO एलिमेंट मैं आपको बताना चाहिए वो है title आपका title आपके page के content को reflect अगर कर रहा है तो यह काफी अच्छी SEO practice है जब जब आपका page चेंज हो रहा है आप title को इस तरह से बनाओंगा कि वो आपके page के content को reflect करे क्योंकि अगर आप लोग Google पर अपनी website चाहते हो तो वो title के इसाफसे आईगी जो Google की index है जब आप लोग मान लो यहांपर लिखते हो code with Harry तो मैं लोरेम 45 क्यों लिखा मैं view word rap कर लेता हूँ तो 45 क्यों लिखा यह बहुत अच्छा वाल है 45 मैंना इसलिए लिखा कि मैं आलसी हूँ और 4 or 5 आसपास होते हैं तो 23 भी लिखता हूँ तो और कोई वज़ाँ नहीं है यहाँ पर ओपेन इन ब्राॉजर करूँगा, तो यह देखो यह कुछ इस तरहाँ से देख रहा है, अब यह डॉक्यूमेंट लिखा हुआ, अगर मैंने ऐसा ही छोड़ दिया इसको, तो यह एची वो प्राक्टिस नहीं होगी, मैं आपर मनलो, about Harry लिख दूँगा, और यहा� मुझे इंप्रूव करनी चाहिए, लेकिन जब मैं इमेजेज वग़ेरा डालोंगा, तो मुझे सजेश्ट्ट्वन मिलेंगी, जैसे की विट्थ डाल दो, हाइट डाल दो, उससे के साथ साथ, आपको एक और ट्रिक बताता हूं, मैं जिससे की आप किसी भी मुझे आपकी वैपसाइट कैसे दिखती है, यह आपको पता चल पाएगा, तो आप लोग यहाँ पर क्लिक करें, यह दिखर रहा है आपको यहाँ पर कंप्यूटर, इस पर क्लिक करें, और इसके बाद अगर आप इसमें रेस्पॉंसिव चुनते हैं, तो आप देख सकते हो कि किसी भी तरह के डेवाइज में कैसी आपकी वैपसाइट दिखेगी, तो आपकी वैपसाइट रेष्पॉंसिव है कि नहीं, यह आप यहाँ पर देख सकते हैं ऐसे करके, आपकी वैपसाइट आपकी वैपसाइट कैसी दिखेगी, यह आपको बता लग सकता है, आप एक जर्मनल विव लेना चाहते हो, अपकी वैपसाइट रेष्पॉंसिव डेवाइज में, किसी भी तरह के डेवाइज में, बालो आईपड में किस चारा से दिखेगी, तो आप यहाँ पर अगर आपका डेवाइज नहीं है, तो आप रेष्पॉंसिव चुन के अपन पर ज़ेसे ही लिखोंगा, तो देखो यहाँ पर मेटा डी एस्सी आ रहा है, टीके, मेटा डी एस्सी पर क्लिक करूँगा, और यहाँ पर मैं अपने पेज का डिस्कृप्षिण दे सकता हूँ, मालों मैं देता हूँ, यह पेज है, यह पेज अबाउट है, यह पेज पर डिस्कृप्षिण दे सकता है, अबाउट है, हैरी, ठीक है, और यहाँ पर आपका जो भी पेज कॉंटेंड है, वो आप लिख दो, जो भी आप चाहते हो, जैसे कि मैं आपको दिखाते हूँ, माल लेगा आपके मैटा डी एस्सी को, अगर आपने नहीं डाला है मैटा डी एस्सी, तो आपके गंटेंड से भी जेनेरेट किया जा सकता है मैटा डी एस्सी, तो यह सर्च इंजन की जिंबदारी होती है, Bing क्या करेगा, Google क्या करेगा, यह हमें नहीं पता, बट हमारी तरफ से हमारा पेच एकड़म टू दा पॉइंट होना चाहिए, खासकर अगर हम ब्लॉग लिख रहे हैं, और हम चाहते हैं कि हमारा और गैनिकली रैंक करे पेच तो, तो यहाँ पर आप देख सकते हों कि मैटा डी एस्सी मैंने लगाया, अब आपका ग्रेंग की वालियो देरा है, उसको समझा जायेगा, उसी इससाब से रैंक किया जाएगा, अब अगर आपको exactly इन कोर वैब वाइटल्स के बारे में जानना है, फ़र इक्जामपल अगर मैं right-click करके inspect करूं और light house में जाओं और desktop के लिए light house report निकालूं, तो कुछ कोर वैब वैटल्स आते हैं, जब कि एल सी पी आता है, फिर उसके बाद fcp आता है, फर्स्ट कॉंटेक्श्यॉल पेंट, अब आप यहां पर देशें तो सब कुछ सौ सौ सौ सौ हो रखा है, यहां पर देखो, अभी इस content में कुछ जाधा था नहीं, लेकिन यहां पर आप खिल है, उसके पैन्टा, क्योंकोन सफ लियाओट चाद, हई फोना खեռब, वैप डेव में गरना होगा, जानने के बाchn, और आप तक पुले, जिस से कहे, इन सब चीजों के बारे में यहाँ पर बहुत चीजों डला हुआ है लेकिन हम इस कोडस के अंदर HTML, CSS, JavaScript और Websites बनाने में फोकुस करेंगे यह चीज मेरे जाब से आप लोगों को आनी चीज हैं जिसकी वज़ेसे मैंने आप लोगों को इसके बारे में बताया अगर आप लोगों ने अभी तक Sigma Web Development सीरीज को आक्सेस नहीं किया है तो उसको जरूर से आक्सेस कर देना प्लेलिएस्ट को आक्सेस कर गे, बुकमार्ग कर लेना, यहाँ क्लिक कर के स्टार पर और यहाँ क्लिक कर के सेफ कर लेना अब इस वीडियो में इतने है गएज, आपको बहुत ख़ुशत रहे हैं जब वीडियो ने परचार करते हैं और मैं आपको बारे में आपको परचार करें"
+}

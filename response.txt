@@ -1,0 +1,7 @@
+You're watching our "Video, Audio & Media in HTML" video.
+
+In this video, specifically from 3:38 to 5:38, we cover how to add videos and audio to your HTML files. We go over the different tags you can use for media content, such as `<video>`, `<audio>`, and `<source>`.
+
+If you're interested in learning more about creating your first HTML website, I'd recommend checking out our "Your First HTML Website" video (that's Video 2). From 20:32 to 22:32, we cover the basics of creating a simple website with HTML, including how to link files and include CSS styles.
+
+Let me know if you have any questions or need further clarification!

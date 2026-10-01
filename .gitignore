@@ -1,0 +1,14 @@
+videos/
+unused/
+embeddings.joblib
+
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+*.log

@@ -1,0 +1,2084 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 0.0,
+            "end": 3.6,
+            "text": " आज के इस वीडियो में हम लोग जानेंगे कि आडियो, वीडियो और मीडिया एलिमेंट्स"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 3.6,
+            "end": 5.6000000000000005,
+            "text": " HTML में किस तरह से इस्तेमाल किये जाते हैं?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 5.6000000000000005,
+            "end": 7.48,
+            "text": " हम लोगों ने अपने वेरी फ़र्स वीडियो में देखा था"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 7.48,
+            "end": 10.56,
+            "text": " कि हम लोग HTML के अंदर वीडियोस को इंबेट कर सकते हैं."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 10.56,
+            "end": 13.16,
+            "text": " आज मैं आपलोगों को बताओंगा कि इससे वीडियो को आटउ प्ले कीया जाता है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 13.16,
+            "end": 15.36,
+            "text": " किस तरह से मिडियो को लका जा सकता है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 15.36,
+            "end": 19.8,
+            "text": " और किस तरह से आपलोग वीडियो के कन् تरोल्स को इनेबल और डिसेबिल कर सकते हैं?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 19.8,
+            "end": 22.46,
+            "text": " उसी के साथ साथ हम लोग आडियो के बारे में भी बहुत लोस्त दी देखेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 22.46,
+            "end": 25.42,
+            "text": " कि मीडिया को वोर आल एक पेज में किस तरह से दिखाय जा सकता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 25.42,
+            "end": 27.22,
+            "text": " तो इस वीडियो को लाइक जरूर कर देना"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 27.22,
+            "end": 28.46,
+            "text": " और इस वीडियो में बने रहना"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 28.46,
+            "end": 30.86,
+            "text": " क्योंकि जो examples मेंने यूस किये हुए न"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 30.86,
+            "end": 32.64,
+            "text": " वीडियो टाइक्स के लिए वो बड़े धमाकि दार हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 32.64,
+            "end": 33.9,
+            "text": " चलते हैं अब वीडियो स्क्रीन में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 33.9,
+            "end": 35.22,
+            "text": " लेटस रॉल दे इंट्रो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 35.22,
+            "end": 40.52,
+            "text": " मुझी आपके आपके आपके अपने पारेंगे लोग देते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 40.52,
+            "end": 46.0,
+            "text": " दोस्तो इस बार मैंने वीडियो टेन नाम से"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 46.0,
+            "end": 48.6,
+            "text": " फोल्टर बना लिया है और शिव्ट राइट लिक करके"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 48.6,
+            "end": 51.400000000000006,
+            "text": " open with code खोलकर बार बार आपका टाइम वेस्ट नहीं करूँगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 51.400000000000006,
+            "end": 53.64,
+            "text": " इन पाक इंडेक्स टोड़ एस्टीमल बनाओंगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 54.36,
+            "end": 56.06,
+            "text": " आठ कि वीडियो की स्थालता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 56.06,
+            "end": 58.88,
+            "text": " विडियो किस तरह से प्लेइ किया जाए"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 58.88,
+            "end": 62.54,
+            "text": " एक HTML files के ऐंदर विडियो किस तरह से डाला जाए"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 62.54,
+            "end": 64.2,
+            "text": " आडियो किस तरह से डाला जाए"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 64.2,
+            "end": 66.14,
+            "text": " मीडिया किस तरह से डाली आए"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 66.14,
+            "end": 68.7,
+            "text": " विडियो को add करना एकदम straight forward है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 68.7,
+            "end": 70.18,
+            "text": " मैं आपर copy करूँगा इस को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 70.18,
+            "end": 73.62,
+            "text": " जो की हमारे वीडियो टाग है, इसका एक SRC एट्रिप्यूट होता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 73.62,
+            "end": 75.94000000000001,
+            "text": " और इसके कुछ और एट्रिप्यूट से जिन इसके बारे में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 75.94000000000001,
+            "end": 77.62,
+            "text": " मैं आप लोगों से डिसकस करूँगा, लेकिन सबसे पहले"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 77.62,
+            "end": 79.14000000000001,
+            "text": " मैं आप लोगों को बताना चाहता हूँ यहाँ पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 79.14,
+            "end": 81.86,
+            "text": " कि वीडियो एसाच सी इसे लिकोगे आप जैसे यहाँ पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 81.86,
+            "end": 84.58,
+            "text": " तो वीडियो डॉट एमपी फूर अगर है आपके पास तो वो प्लेय हो जाएगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 84.58,
+            "end": 86.98,
+            "text": " मैंने पास वीडियो डॉट एमपी फूर है, तो चलो देखते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 176.98,
+            "end": 180.06,
+            "text": " आपके बार का खिला कि आप बोल्यूद के लिए प्लेय के कंटरोल बाते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 180.06,
+            "end": 183.14,
+            "text": " बुपेंदर जोगी वाले वीडियो में, जो आप यहाँ पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 183.14,
+            "end": 186.16,
+            "text": " जो आपको बात का कंटरोल देखने को मिल रहे है अब"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 186.16,
+            "end": 188.89999999999998,
+            "text": " क्या है कि यह चीज़ दा ब्राॉजर अटोमाटिकली देखता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 188.9,
+            "end": 191.56,
+            "text": " क्या control add होंगे आपके वीडियो में, क्या नहीं होंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 191.56,
+            "end": 194.06,
+            "text": " फिर देखो, auto play क्या करेगा, अटोमाटिकली play कर देगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 194.06,
+            "end": 195.56,
+            "text": " जसी पीज लोड होगा, ठीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 195.56,
+            "end": 197.86,
+            "text": " तो auto play अगर मैं आपर लगा दूं, मालों मैं आपर लगा देता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 197.86,
+            "end": 198.86,
+            "text": " auto play, ठीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 199.82000000000002,
+            "end": 201.82000000000002,
+            "text": " जब आप ने आपने मार्केट के रोड है, कैसी क्या हो रही है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 201.82000000000002,
+            "end": 205.82000000000002,
+            "text": " तो देखो, तो आप देख सकते हो यहां पर कि यह एक अटो प्ले हो गया, ठीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 205.82000000000002,
+            "end": 207.82000000000002,
+            "text": " तो मैं अटो प्ले को अटा दूंगा यहां से"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 207.82000000000002,
+            "end": 210.82000000000002,
+            "text": " और अगला जो हमारा attribute है, वो है loop"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 210.82000000000002,
+            "end": 212.82000000000002,
+            "text": " यानि कि एक बार हमारा वीडियो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 213.78,
+            "end": 215.78,
+            "text": " प्ले हो गया, तो वो loop होता रहेगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 215.78,
+            "end": 217.78,
+            "text": " जैसे मैं आपको दिखाता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 217.78,
+            "end": 219.78,
+            "text": " यहां देखो आपने मार्केट के रोड है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 219.78,
+            "end": 221.78,
+            "text": " तो यह दुबारा स्टार्ट हो गया, एक बार"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 221.78,
+            "end": 223.78,
+            "text": " एक बार मैंने इसको जब ख़तम किया, तो यह दुबारा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 224.74,
+            "end": 226.74,
+            "text": " तो यह loop जो है, कुछ इस तरह से काम करता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 226.74,
+            "end": 228.74,
+            "text": " अगला attribute है muted"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 228.74,
+            "end": 230.74,
+            "text": " muted वीडियो को mute कर दिता है, तो मैं अगर यहां पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 230.74,
+            "end": 232.74,
+            "text": " लिख दू, muted, कभी-कभी हम चाहते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 232.74,
+            "end": 234.74,
+            "text": " कि वीडियो muted हो, इन फाक्ट जब मैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 234.74,
+            "end": 236.74,
+            "text": " यहां पर वीडियो's आड़ करता हूँ, codewithhari.com"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 237.70000000000002,
+            "end": 239.70000000000002,
+            "text": " पर मैं कोई चीज डेमोंस्ट्रेट करता हूँ, इससे वीडियो's को डाउनलोड करना है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 239.70000000000002,
+            "end": 241.70000000000002,
+            "text": " तो मैं muted attribute का इस्तिमाल करता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 241.70000000000002,
+            "end": 243.70000000000002,
+            "text": " कि मैं नहीं चाहता कि जब मैंने वीडियो record किया"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 243.70000000000002,
+            "end": 245.70000000000002,
+            "text": " अगर कोई background noise है, वो आपको सुनाई दे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 245.70000000000002,
+            "end": 247.70000000000002,
+            "text": " पर example, मैं आपको इसे दिखाना चाहता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 248.66,
+            "end": 250.66,
+            "text": " तो मैं ऐसे स्क्रॉल करके वीडियो बनाऊंगा, इसको ऐसे highlight करूंगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 250.66,
+            "end": 252.66,
+            "text": " तो उसमें मुझे audio नहीं चाहिए, तो मैं muted कर देता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 252.66,
+            "end": 254.66,
+            "text": " तो आपलोग अपनी websites में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 254.66,
+            "end": 256.65999999999997,
+            "text": " muted attribute का इस्तिमाल कर सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 256.65999999999997,
+            "end": 258.65999999999997,
+            "text": " फिर poster, पोस्टर बहुत important है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 258.65999999999997,
+            "end": 260.65999999999997,
+            "text": " तो मैं अगर इहांपर मेरे पास एक image है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 261.62,
+            "end": 263.62,
+            "text": " पोस्टर बहुत important है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 263.62,
+            "end": 265.62,
+            "text": " अगर मैं इहांपर लिखता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 265.62,
+            "end": 267.62,
+            "text": " पोस्टर बहुत important है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 267.62,
+            "end": 269.62,
+            "text": " तो आपलोग देखो इस तरह से दिखेगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 269.62,
+            "end": 271.62,
+            "text": " तो यह इस तरह से दिखरा है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 271.62,
+            "end": 273.62,
+            "text": " पोस्टर बहुत important है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 273.62,
+            "end": 275.62,
+            "text": " तो वीडियो बनाऊंगा, तो एक तरह से thumbnail"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 276.58,
+            "end": 278.58,
+            "text": " पोस्टर बहुत important है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 278.58,
+            "end": 280.58,
+            "text": " तो यह सारे attributes जो हैं वो आपलोग यूज़ कर सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 280.58,
+            "end": 282.58,
+            "text": " विड्ध और हाइट आपको पता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 282.58,
+            "end": 284.58,
+            "text": " कि वीडियो के dimension को specify करती है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 284.58,
+            "end": 286.58,
+            "text": " जैसे कि मैंने आपर विड्ध और हाइट दोनों बनाँगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 286.58,
+            "end": 288.58,
+            "text": " तो आपने देखा, तो I hope कि यह चीज़"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 288.58,
+            "end": 290.58,
+            "text": " समझ में आगए होगी आपलोगो को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 290.58,
+            "end": 292.58,
+            "text": " अब इसके बाद जो चीज़ मैं आपलोग को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 292.58,
+            "end": 294.58,
+            "text": " बताना चाहता हूँ वो है audio तो यह तो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 294.58,
+            "end": 296.58,
+            "text": " आपने विडियो के सारे attributes देके लिए एकदम"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 296.58,
+            "end": 298.58,
+            "text": " straight forward है मैं चाहता हूँ कि आप एक website बनाओ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 298.58,
+            "end": 300.58,
+            "text": " बढ़िया सी जो कि मैं आपलोग को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 300.58,
+            "end": 302.58,
+            "text": " इस विडियो के एंड मैं भी देने वाला हूँ quick quiz में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 302.58,
+            "end": 304.58,
+            "text": " तो quick quiz ज़रूर सुन लेना"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 304.58,
+            "end": 306.58,
+            "text": " इन फाक्ट मैं आपर डाली देता हूँ heading अभी से quick quiz ठीक है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 306.58,
+            "end": 308.58,
+            "text": " था कि मैं भूलू ना"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 308.58,
+            "end": 310.58,
+            "text": " यह मैं आपको भी दूँगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 310.58,
+            "end": 312.58,
+            "text": " और यह काफी मज़दार quiz होने वाली है और सब लोग"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 312.58,
+            "end": 314.58,
+            "text": " तो विडियो के एंड मैं भी देने वाला हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 342.58,
+            "end": 344.58,
+            "text": " तो यह audio है हमारी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 344.58,
+            "end": 346.58,
+            "text": " जब मैं इसको मिउट करके चलाओं तो यह नहीं चलेगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 346.58,
+            "end": 348.58,
+            "text": " और मैं आगे भी बढ़ा सकता हूँ इसको देखा था"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 348.58,
+            "end": 350.58,
+            "text": " थीक है आप लोगों ने देख ले तो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 350.58,
+            "end": 352.58,
+            "text": " सचिन.mp3 नाम की audio है अब हम क्या करेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 352.58,
+            "end": 354.58,
+            "text": " कि इस audio के कुछ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 354.58,
+            "end": 356.58,
+            "text": " attributes को देखेंगे एसारसी आपको पता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 356.58,
+            "end": 358.58,
+            "text": " कि source वीडियो फाइल का"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 358.58,
+            "end": 360.58,
+            "text": " थीक है फिर इसके बाद controls"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 360.58,
+            "end": 362.58,
+            "text": " आप लोगों को पता है कि play, pause, or volume"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 362.58,
+            "end": 364.58,
+            "text": " जो कि हमने अभी देखा और टॉप्ले क्या करेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 364.58,
+            "end": 366.58,
+            "text": " इसको अटॉमाटिकली प्ले कर देखा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 366.58,
+            "end": 368.58,
+            "text": " मैंने यहाँ पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 368.58,
+            "end": 370.58,
+            "text": " आटॉमाटिकली प्ले हो गया"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 370.58,
+            "end": 372.58,
+            "text": " तो आटॉप्ले करने से क्या हो वह है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 372.58,
+            "end": 374.58,
+            "text": " यह आटॉमाटिकली प्ले हो गया है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 374.58,
+            "end": 376.58,
+            "text": " आडियो मारी इसके बाद"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 376.58,
+            "end": 378.58,
+            "text": " अगला attribute जो है वो है loop"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 378.58,
+            "end": 380.58,
+            "text": " loop क्या करेगा इसको repeat कर देखा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 380.58,
+            "end": 382.58,
+            "text": " अगर मैं इसको loop करना चाहता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 382.58,
+            "end": 384.58,
+            "text": " आटॉप्ले कर देखा और मैं loop कर देखा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 384.58,
+            "end": 386.58,
+            "text": " सचिन क्या है सचिन में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 386.58,
+            "end": 388.58,
+            "text": " लपूसा सचिन है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 388.58,
+            "end": 390.58,
+            "text": " सचिन क्या है सचिन में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 390.58,
+            "end": 392.58,
+            "text": " तो आपने देखा यह repeat हुई"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 392.58,
+            "end": 394.58,
+            "text": " बज़ गई फिर उसके बाद दुबाना से बज़ी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 394.58,
+            "end": 396.58,
+            "text": " क्योंकि loop कर रखी थी मैंने audio"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 396.58,
+            "end": 398.58,
+            "text": " सचिन.mp3"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 398.58,
+            "end": 400.58,
+            "text": " loop कर दी मैंने"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 400.58,
+            "end": 402.58,
+            "text": " यह एक बार बज़ी फिर बज़ गई"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 402.58,
+            "end": 404.58,
+            "text": " सचिन क्या है सचिन"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 404.58,
+            "end": 406.58,
+            "text": " बार बार बोले जा रही थी वो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 406.58,
+            "end": 408.58,
+            "text": " क्यूंकि ये जो MP3 है वो बार बार play होगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 408.58,
+            "end": 410.58,
+            "text": " तो कई उस case इसके कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 410.58,
+            "end": 412.58,
+            "text": " आप जब चाहोगे कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 412.58,
+            "end": 414.58,
+            "text": " MP3 है repeat हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 414.58,
+            "end": 416.58,
+            "text": " तो अगर आप चाहते हो कि आपकी MP3 repeat हो तो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 416.58,
+            "end": 418.58,
+            "text": " आप इसको जो एक उस कर सकते हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 418.58,
+            "end": 420.58,
+            "text": " अब इसके बाद जो है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 420.58,
+            "end": 422.58,
+            "text": " क्या करेगा, mute कर देगा audio को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 422.58,
+            "end": 424.58,
+            "text": " और देफिनिटली आप नहीं चाहते कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 424.58,
+            "end": 426.58,
+            "text": " बार बार आपकी audio mute हो most of the cases में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 426.58,
+            "end": 428.58,
+            "text": " हम कभी कभी चाहेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 428.58,
+            "end": 430.58,
+            "text": " कि जो audio"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 430.58,
+            "end": 432.58,
+            "text": " हो वो muted हो और हम यहाँ पर बोल सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 432.58,
+            "end": 434.58,
+            "text": " उसको सुननी हो, unmute करते सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 434.58,
+            "end": 436.58,
+            "text": " ऐसा कभ करते हैं, हम multiple audio होती हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 436.58,
+            "end": 438.58,
+            "text": " आप 5-6 audio एक साथ दिखाना चाहते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 438.58,
+            "end": 440.58,
+            "text": " आप mute कर सकते हैं उनको"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 440.58,
+            "end": 442.58,
+            "text": " जो मन चाहें user आपका play करके"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 442.58,
+            "end": 444.58,
+            "text": " unmute करके देख सकता है, तो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 444.58,
+            "end": 446.58,
+            "text": " आपके हाथ में control है, यह आप चाहो तो इस चीज़ को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 446.58,
+            "end": 448.58,
+            "text": " यूज़ कर सकते हो, टीके, कुल बिलाकर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 448.58,
+            "end": 450.58,
+            "text": " यह बात है, तो I hope कि यह चीज़"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 450.58,
+            "end": 452.58,
+            "text": " समझ में आ गई आप लोगों, मज़ा आया होगा आप लोगों"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 452.58,
+            "end": 454.58,
+            "text": " को, अब preload सबसे ज़्यादा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 454.58,
+            "end": 456.58,
+            "text": " पर यह समझ नहीं है, तो इस लिए मैंने इसको"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 456.58,
+            "end": 458.58,
+            "text": " code with adi.com पर बत खिला हुआ है, कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 458.58,
+            "end": 460.58,
+            "text": " जो preload attribute है, इस की यह"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 460.58,
+            "end": 462.58,
+            "text": " वालियों सकते हैं, पहले वालियों सकते है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 462.58,
+            "end": 464.58,
+            "text": " none, वालियों नहीं, यह प्रे-लोड वालियों है, यह"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 464.58,
+            "end": 466.9,
+            "text": " सब प्री लोड अट्रिभीट को नहीं दर जाना।"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 466.94,
+            "end": 469.91999999999996,
+            "text": " प्री लोड का मतलब पहले से अगर आप चाहते"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 469.94,
+            "end": 474.44,
+            "text": " हों कि देटा को प्राउज़र कर ले तब आप डेटा ाइसे बन बन को गरुगे।"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 474.46,
+            "end": 476.58,
+            "text": " वरना आप अद्रिभीट को यूज़ नहीं करेंगे।"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 476.58,
+            "end": 479.2,
+            "text": " preload is equal to none default value"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 479.2,
+            "end": 480.58,
+            "text": " preload is equal to metadata"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 480.58,
+            "end": 482.58,
+            "text": " मतलब कि browser सिर्फ metadata"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 482.58,
+            "end": 484.58,
+            "text": " या नहीं कि उस audio file के बारे में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 484.58,
+            "end": 486.08,
+            "text": " जो information है उसको preload करेगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 486.08,
+            "end": 487.58,
+            "text": " या नहीं कि पेले से load करेगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 487.58,
+            "end": 488.58,
+            "text": " और एक auto करने से क्या होगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 488.58,
+            "end": 491.08,
+            "text": " कि browser preload करलेगा entire audio को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 491.08,
+            "end": 493.08,
+            "text": " तो preload is equal to auto"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 493.08,
+            "end": 494.58,
+            "text": " अगर मैं करूँगा तो ये download हो जाएगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 494.58,
+            "end": 496.08,
+            "text": " और automatically load हो जाएगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 496.08,
+            "end": 498.08,
+            "text": " ताकि जब भी user प्लेग करे इसको"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 498.08,
+            "end": 500.08,
+            "text": " तो बच जाए audio ठीक है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 500.08,
+            "end": 502.08,
+            "text": " तो preload attribute का ये काम होता है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 502.08,
+            "end": 504.08,
+            "text": " और interviews में बहुत पूछ जाता है यह जो preload attribute है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 504.08,
+            "end": 507.08,
+            "text": " तो आपको पढ़ा होना चाहिए कि बहुँ preload attribute क्या है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 507.08,
+            "end": 508.08,
+            "text": " आगे बढ़ने से पहले मैं चाहता हूँ कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 508.08,
+            "end": 511.08,
+            "text": " आप इस playlist को share करो अपने दोस्तों के साथ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 511.08,
+            "end": 513.0799999999999,
+            "text": " क्योंकि मैं देख रहा हूँ कि यार interest काफ़ी decline हो रहा है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 513.0799999999999,
+            "end": 515.0799999999999,
+            "text": " जस एसे हैं हम videos में आगे बढ़ते जा रहे हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 515.0799999999999,
+            "end": 518.0799999999999,
+            "text": " मेरी आपलोगों से गुधारी शेयर है कि यार आपलोग इस video को like करो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 518.0799999999999,
+            "end": 521.0799999999999,
+            "text": " और उसी के साथ साथ जैसे एसे आप इस repository को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 539.08,
+            "end": 542.08,
+            "text": " बहुत सारे लोग पूछ रहे थे कि क्या हम replit का इस्तिमाल कर सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 542.08,
+            "end": 545.08,
+            "text": " देखो इस course में मैं ने replit का इस्तिमाल नहीं किया है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 545.08,
+            "end": 548.08,
+            "text": " बढ़ रेपलिट ड़ट कॉम इस एन amazing website अगर आप लोग चाहते हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 548.08,
+            "end": 552.08,
+            "text": " आप phone में use करो HTML वगएरा अगर आप लोग चलाना चाहते हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 552.08,
+            "end": 554.08,
+            "text": " रेपलिट की app भी है iOS के लिए भी है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 554.08,
+            "end": 556.08,
+            "text": " Android के लिए भी है तो आप इसको try out कर सकते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 556.08,
+            "end": 558.08,
+            "text": " बहुत सारे लोग पूछ रहे हैं कि यार phone में कैसे करें"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 558.08,
+            "end": 561.08,
+            "text": " recording, replit लेकिन मैं अभी क्या चाह रहा हूँ ना कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 561.08,
+            "end": 564.08,
+            "text": " VS Code जो कि most of the लोग जो है use करना चाहते हैं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 565.08,
+            "end": 567.08,
+            "text": " तो मैंने सुझा कि एक वीडियो बना हूँ वीडियो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 567.08,
+            "end": 570.08,
+            "text": " पर मैं personally गाफ़ी रेपलिट का इस्तमाल करता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 570.08,
+            "end": 572.08,
+            "text": " इन फार्ट वीडियो भी आते हैं रेपलिट में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 572.08,
+            "end": 574.08,
+            "text": " अगला जो topic है वो SVG है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 574.08,
+            "end": 576.08,
+            "text": " वीडिया से related"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 576.08,
+            "end": 578.08,
+            "text": " एक फ़र्माट होता है जिस से कि आप लोग जो है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 578.08,
+            "end": 580.08,
+            "text": " image को create कर सकते हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 580.08,
+            "end": 582.08,
+            "text": " काफी high graphics वाले"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 582.08,
+            "end": 584.08,
+            "text": " vector image तो copy करोगे आप"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 584.08,
+            "end": 586.08,
+            "text": " लोग तो इसमें basically circle वगएरह यह सब आप"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 586.08,
+            "end": 588.08,
+            "text": " बना सकते हो तो SVG को बिलकुल"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 588.08,
+            "end": 590.08,
+            "text": " उसी तरह से use किया जाता है जिस तरह से"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 590.08,
+            "end": 592.08,
+            "text": " use किया जाता है हमारे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 592.08,
+            "end": 594.08,
+            "text": " img टाग को तो देखो अगर मैं आपर SVG डालूँगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 594.08,
+            "end": 596.08,
+            "text": " तो यह SVG यहाँ पर आजागी तो यह"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 596.08,
+            "end": 598.08,
+            "text": " circular SVG यहाँ पर आगई"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 598.08,
+            "end": 600.08,
+            "text": " वीडियो आउडियो SVG"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 600.08,
+            "end": 602.08,
+            "text": " यह inline elements थे इसलिए एक ही"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 602.08,
+            "end": 604.08,
+            "text": " हमें line में देखने को मिल रहे हैं ठीक है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 604.08,
+            "end": 606.08,
+            "text": " आप लोग ने यहाँ पर देख लिया अब"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 606.08,
+            "end": 608.08,
+            "text": " यहाँ पर क्या है कि आप SVG फाइल को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 608.08,
+            "end": 610.08,
+            "text": " अलग से भी सेव कर सकते हो अलग से"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 610.08,
+            "end": 612.08,
+            "text": " SVG फाइल को सेव कर सकते हो जैसे कि मैं अगर यहाँ पर लिख दूं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 612.08,
+            "end": 614.08,
+            "text": " कि img.svg"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 614.08,
+            "end": 616.08,
+            "text": " और SVG का content इसमें"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 616.08,
+            "end": 618.08,
+            "text": " सेव कर दूं तो अगर मैं यहाँ पर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 618.08,
+            "end": 620.08,
+            "text": " img करके लिखूंगा इसको"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 620.08,
+            "end": 622.08,
+            "text": " और एसारसी लिखूंगा img.svg"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 622.08,
+            "end": 624.08,
+            "text": " तो आप लोग यहाँ पर देखो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 624.08,
+            "end": 626.08,
+            "text": " कि यह मुझे नहीं देखने को मिली इमेज"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 626.08,
+            "end": 628.08,
+            "text": " अगर मैं यहाँ पर ओल्ट लिख दूं"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 628.08,
+            "end": 630.08,
+            "text": " और लिखूंगा my svg image"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 630.08,
+            "end": 632.08,
+            "text": " तो आप देखना यहाँ पर कि"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 632.08,
+            "end": 634.08,
+            "text": " my svg image ऐसे आ गया लेकिन SVG मुझे देखने को"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 634.08,
+            "end": 636.08,
+            "text": " नहीं बिली ऐसा क्यों हुआ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 636.08,
+            "end": 638.08,
+            "text": " ऐसा इसलिए हुआ क्योंकि जो svg है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 638.08,
+            "end": 640.08,
+            "text": " svg file in"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 640.08,
+            "end": 642.08,
+            "text": " ब्राॉजर मैं लिखता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 642.08,
+            "end": 644.08,
+            "text": " और svg फाइल आप"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 644.08,
+            "end": 646.08,
+            "text": " जब भी ब्राॉजर में चाहेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 646.08,
+            "end": 648.08,
+            "text": " कि आपको दिखे तो आप एक declaration उपर डालेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 648.08,
+            "end": 650.08,
+            "text": " मैं आपको दिखाता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 650.08,
+            "end": 652.08,
+            "text": " तो मैंने आपर लिखा svg फाइल not showing"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 652.08,
+            "end": 654.08,
+            "text": " तो यहाँ पर stack overflow का"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 654.08,
+            "end": 656.08,
+            "text": " एक answer है जो कि आपको बता देगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 656.08,
+            "end": 658.08,
+            "text": " तो आपको न यह लिखना पड़ेगा मैं आपको दिखाता हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 658.08,
+            "end": 660.08,
+            "text": " XML कुछ इस तरह से देखो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 660.08,
+            "end": 662.08,
+            "text": " आपको यह आड़ करना पड़ेगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 662.08,
+            "end": 664.08,
+            "text": " नेम स्पेस डिकलेरेशन"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 664.08,
+            "end": 666.08,
+            "text": " तो यह svg है न आपको यह चीज आड़ करनी पड़ेगी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 666.08,
+            "end": 668.08,
+            "text": " और आप लोग यहाँ पर देखो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 668.08,
+            "end": 670.08,
+            "text": " यह svg दिख गई तो यह चीज बहुत"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 670.08,
+            "end": 672.08,
+            "text": " इंबोर्टेंड है और बहुत सारे लोग"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 672.08,
+            "end": 674.08,
+            "text": " जब भी वेब साइट बनाओगे आप लोग अपनी अपनी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 674.08,
+            "end": 676.08,
+            "text": " तो इस प्रॉबलम में ज़रूर फसेंगे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 676.08,
+            "end": 678.08,
+            "text": " मैं फसता रहता हूँ ठीक है तो मैं आपको बता रहा हूँ"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 678.08,
+            "end": 680.08,
+            "text": " कि जिन प्रॉबलम में आप फसोगे वो पहले ही बता दी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 680.08,
+            "end": 682.08,
+            "text": " मैं आपको प्रॉबलम आही नहीं है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 682.08,
+            "end": 684.08,
+            "text": " मैंने प्रॉबलम भी बता दी कि आना वाली है और सॉलिशियन"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 684.08,
+            "end": 686.08,
+            "text": " भी बता दिया अगला टॉपिक है आई फ्रेम्स आई फ्रेम्स"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 686.08,
+            "end": 688.08,
+            "text": " भी बहुती सिंपल जी चीज है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 688.08,
+            "end": 690.08,
+            "text": " कि आई फ्रेम्स से आपको एक दूसरी वेब साइट"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 690.08,
+            "end": 692.08,
+            "text": " को इंबेड कर सकते हूँ अपनी वेब साइट में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 692.08,
+            "end": 694.08,
+            "text": " जैसे ताकि मैं आगर मैं चाहिं कि ये वेब पेज"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 694.08,
+            "end": 696.08,
+            "text": " को मैं एंबेड कर दूं तो मैं कुछ इस तरह से"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 696.08,
+            "end": 698.08,
+            "text": " आई फ्रेम्स को इसटिमाल कर के कर सकता हूँ तो देखो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 698.08,
+            "end": 700.08,
+            "text": " मैंने लिखा आई फ्रेम्स ये और इस"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 700.08,
+            "end": 703.5200000000001,
+            "text": " इस URL को मैं कॉपी करूँगा और यहाँ पर मैं पेस्ट करूँगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 703.5200000000001,
+            "end": 706.48,
+            "text": " और आप लोग यहाँ पर देखो कि यह जो वेबसाइट है पूरी"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 706.48,
+            "end": 708.48,
+            "text": " जो है एमबेड होगा है यहाँ पर इतने से आई फ्रेम में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 708.48,
+            "end": 710.48,
+            "text": " ठीक है आप डेफनेटली चाहोगे कि यह बड़े आई फ्रेम में"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 710.48,
+            "end": 714.48,
+            "text": " आप लोग तो एक वेबसाइट को आप एमबेड करो पर अगर आप चाहते हो कि यह एमबेड हो जाए तो यह कुछ इस तरह से आप एमबेड कर सकते हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 714.48,
+            "end": 718.48,
+            "text": " मैं काम करता हूँ इसकी हाइट को थोड़ो सा बढा लेता हूँ तो विट्ट इस इकल तो विट्ट लिखा हुआ है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 718.48,
+            "end": 724.48,
+            "text": " विट्ट इस इकल तो कर देता हूँ मैं लेटा से 122, हाइट इस इकल तो कर देता हूँ 444, ठीक है, मान लो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 724.48,
+            "end": 754.48,
+            "text": " तो यह देखो यह कुछ इस तरह से आ गई, अब डेफनेटली यह इस विट्ट में आ पारी थी तो यह इसी लाइन में आ गई, पर मैं विट्ट को थोड़ा बढा दूं, लेटा से मैं विट्ट को कल दूं, 322, ठीक है, तो यह देखो यह पूरी यहाँ पर एमबेड होग"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 754.48,
+            "end": 757.9200000000001,
+            "text": " कर सकते थे, जिस पॉइंट पर सटाट करके आप लोग इस्को शेयर करोगे,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 757.9200000000001,
+            "end": 760.08,
+            "text": " वो टाईम यहाँ पर आजाता है, जब मैं आपको दिखाता हूँ, रुको।"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 760.08,
+            "end": 764.26,
+            "text": " मैं케이 तक Oui plead मैं उपभी जालेकि पक्ते हूँ ना दानी होगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 764.26,
+            "end": 768.22,
+            "text": " तो सुश से यहाँ प्रह forgive arms करने पछे"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 768.22,
+            "end": 769.4200000000001,
+            "text": " अपने से alzi ता Interviewer तक he"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 769.4200000000001,
+            "end": 772.36,
+            "text": " ख़ो ख़ो कूट"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 772.36,
+            "end": 775.3000000000001,
+            "text": " कूट"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 775.32,
+            "end": 778.5600000000001,
+            "text": " निक nurt ना How it is"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 778.58,
+            "end": 784.32,
+            "text": " सो不द anything"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 784.34,
+            "end": 789.0200000000001,
+            "text": " curd आज को किरने केually कि डर करता हो"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 789.02,
+            "end": 791.02,
+            "text": " यहाँ पर एमबेड हो गया, ठीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 791.02,
+            "end": 793.02,
+            "text": " तो आपको एक चीज़ समझ में आ गई होगी,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 793.02,
+            "end": 795.02,
+            "text": " और"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 795.02,
+            "end": 797.02,
+            "text": " Media HTML में सिर्फ इतना ही होता है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 797.02,
+            "end": 799.02,
+            "text": " प्रिड़ी मच ठीक है, Miscellaneous हर"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 799.02,
+            "end": 801.02,
+            "text": " टॉपिक में आपको बहुत सारी चीज़े देखने को मिलेंगी,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 801.02,
+            "end": 805.02,
+            "text": " प्रिड़ी मच ठीक है, यहाँ पर एमेड आगर इस स्टीमल में आडियो, वीडियो, बस इतना ही है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 805.02,
+            "end": 809.02,
+            "text": " यह आप पर 95% पर देखने को परता है, ठीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 809.02,
+            "end": 811.02,
+            "text": " अब मैं आपको एक खुइज देता हूँ, और आपकी कुईज यह है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 811.02,
+            "end": 813.02,
+            "text": " कि Create a Website,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 813.02,
+            "end": 815.02,
+            "text": " जो बात के लिए दिखा रहे है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 815.02,
+            "end": 817.02,
+            "text": " इसे जब वीडियों से दिखीर एक विडियो लिए जूल पर प्रपारय होते है, तीक है?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 817.02,
+            "end": 821.02,
+            "text": " और अडियोँ से दिखर एक काटेगरी से,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 821.02,
+            "end": 827.02,
+            "text": " आप वो एक वीडियो युट्यूब बचने के लिए आपकी त कनरे लिए यूट्यूब वीडियो से लगते है,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 827.02,
+            "end": 830.42,
+            "text": " आपने करना क्या है आप लोगों ने एक वेबसाइड बनानी है"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 830.42,
+            "end": 832.62,
+            "text": " जिसमें आपको बहुत सारा content मिलेगा"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 832.62,
+            "end": 834.62,
+            "text": " अब आप वीडियो आडियो टैक्स का इस्तमाल करके"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 834.62,
+            "end": 837.42,
+            "text": " और यूट्यूब के इस share feature का इस्तमाल करके"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 837.42,
+            "end": 839.42,
+            "text": " जिस तरह से मैंने यूट्यूब वीडियो embed किया था"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML ",
+            "start": 869.42,
+            "end": 871.42,
+            "text": " आपको बहुत सारा content मिलेगा"
+        }
+    ],
+    "text": " आज के इस वीडियो में हम लोग जानेंगे कि आडियो, वीडियो और मीडिया एलिमेंट्स HTML में किस तरह से इस्तेमाल किये जाते हैं? हम लोगों ने अपने वेरी फ़र्स वीडियो में देखा था कि हम लोग HTML के अंदर वीडियोस को इंबेट कर सकते हैं. आज मैं आपलोगों को बताओंगा कि इससे वीडियो को आटउ प्ले कीया जाता है, किस तरह से मिडियो को लका जा सकता है, और किस तरह से आपलोग वीडियो के कन् تरोल्स को इनेबल और डिसेबिल कर सकते हैं? उसी के साथ साथ हम लोग आडियो के बारे में भी बहुत लोस्त दी देखेंगे कि मीडिया को वोर आल एक पेज में किस तरह से दिखाय जा सकता है तो इस वीडियो को लाइक जरूर कर देना और इस वीडियो में बने रहना क्योंकि जो examples मेंने यूस किये हुए न वीडियो टाइक्स के लिए वो बड़े धमाकि दार हैं चलते हैं अब वीडियो स्क्रीन में लेटस रॉल दे इंट्रो मुझी आपके आपके आपके अपने पारेंगे लोग देते हैं दोस्तो इस बार मैंने वीडियो टेन नाम से फोल्टर बना लिया है और शिव्ट राइट लिक करके open with code खोलकर बार बार आपका टाइम वेस्ट नहीं करूँगा इन पाक इंडेक्स टोड़ एस्टीमल बनाओंगा आठ कि वीडियो की स्थालता है विडियो किस तरह से प्लेइ किया जाए एक HTML files के ऐंदर विडियो किस तरह से डाला जाए आडियो किस तरह से डाला जाए मीडिया किस तरह से डाली आए विडियो को add करना एकदम straight forward है मैं आपर copy करूँगा इस को जो की हमारे वीडियो टाग है, इसका एक SRC एट्रिप्यूट होता है और इसके कुछ और एट्रिप्यूट से जिन इसके बारे में मैं आप लोगों से डिसकस करूँगा, लेकिन सबसे पहले मैं आप लोगों को बताना चाहता हूँ यहाँ पर कि वीडियो एसाच सी इसे लिकोगे आप जैसे यहाँ पर तो वीडियो डॉट एमपी फूर अगर है आपके पास तो वो प्लेय हो जाएगा मैंने पास वीडियो डॉट एमपी फूर है, तो चलो देखते हैं आपके बार का खिला कि आप बोल्यूद के लिए प्लेय के कंटरोल बाते हैं बुपेंदर जोगी वाले वीडियो में, जो आप यहाँ पर जो आपको बात का कंटरोल देखने को मिल रहे है अब क्या है कि यह चीज़ दा ब्राॉजर अटोमाटिकली देखता है क्या control add होंगे आपके वीडियो में, क्या नहीं होंगे फिर देखो, auto play क्या करेगा, अटोमाटिकली play कर देगा जसी पीज लोड होगा, ठीक है? तो auto play अगर मैं आपर लगा दूं, मालों मैं आपर लगा देता हूँ auto play, ठीक है? जब आप ने आपने मार्केट के रोड है, कैसी क्या हो रही है? तो देखो, तो आप देख सकते हो यहां पर कि यह एक अटो प्ले हो गया, ठीक है? तो मैं अटो प्ले को अटा दूंगा यहां से और अगला जो हमारा attribute है, वो है loop यानि कि एक बार हमारा वीडियो प्ले हो गया, तो वो loop होता रहेगा जैसे मैं आपको दिखाता हूँ यहां देखो आपने मार्केट के रोड है तो यह दुबारा स्टार्ट हो गया, एक बार एक बार मैंने इसको जब ख़तम किया, तो यह दुबारा तो यह loop जो है, कुछ इस तरह से काम करता है अगला attribute है muted muted वीडियो को mute कर दिता है, तो मैं अगर यहां पर लिख दू, muted, कभी-कभी हम चाहते हैं कि वीडियो muted हो, इन फाक्ट जब मैं यहां पर वीडियो's आड़ करता हूँ, codewithhari.com पर मैं कोई चीज डेमोंस्ट्रेट करता हूँ, इससे वीडियो's को डाउनलोड करना है तो मैं muted attribute का इस्तिमाल करता हूँ कि मैं नहीं चाहता कि जब मैंने वीडियो record किया अगर कोई background noise है, वो आपको सुनाई दे पर example, मैं आपको इसे दिखाना चाहता हूँ तो मैं ऐसे स्क्रॉल करके वीडियो बनाऊंगा, इसको ऐसे highlight करूंगा तो उसमें मुझे audio नहीं चाहिए, तो मैं muted कर देता हूँ तो आपलोग अपनी websites में muted attribute का इस्तिमाल कर सकते हैं फिर poster, पोस्टर बहुत important है तो मैं अगर इहांपर मेरे पास एक image है पोस्टर बहुत important है अगर मैं इहांपर लिखता हूँ पोस्टर बहुत important है तो आपलोग देखो इस तरह से दिखेगी तो यह इस तरह से दिखरा है पोस्टर बहुत important है तो वीडियो बनाऊंगा, तो एक तरह से thumbnail पोस्टर बहुत important है तो यह सारे attributes जो हैं वो आपलोग यूज़ कर सकते हैं विड्ध और हाइट आपको पता है कि वीडियो के dimension को specify करती है जैसे कि मैंने आपर विड्ध और हाइट दोनों बनाँगा तो आपने देखा, तो I hope कि यह चीज़ समझ में आगए होगी आपलोगो को अब इसके बाद जो चीज़ मैं आपलोग को बताना चाहता हूँ वो है audio तो यह तो आपने विडियो के सारे attributes देके लिए एकदम straight forward है मैं चाहता हूँ कि आप एक website बनाओ बढ़िया सी जो कि मैं आपलोग को इस विडियो के एंड मैं भी देने वाला हूँ quick quiz में तो quick quiz ज़रूर सुन लेना इन फाक्ट मैं आपर डाली देता हूँ heading अभी से quick quiz ठीक है था कि मैं भूलू ना यह मैं आपको भी दूँगा और यह काफी मज़दार quiz होने वाली है और सब लोग तो विडियो के एंड मैं भी देने वाला हूँ तो यह audio है हमारी जब मैं इसको मिउट करके चलाओं तो यह नहीं चलेगी और मैं आगे भी बढ़ा सकता हूँ इसको देखा था थीक है आप लोगों ने देख ले तो सचिन.mp3 नाम की audio है अब हम क्या करेंगे कि इस audio के कुछ attributes को देखेंगे एसारसी आपको पता है कि source वीडियो फाइल का थीक है फिर इसके बाद controls आप लोगों को पता है कि play, pause, or volume जो कि हमने अभी देखा और टॉप्ले क्या करेंगे इसको अटॉमाटिकली प्ले कर देखा मैंने यहाँ पर आटॉमाटिकली प्ले हो गया तो आटॉप्ले करने से क्या हो वह है यह आटॉमाटिकली प्ले हो गया है आडियो मारी इसके बाद अगला attribute जो है वो है loop loop क्या करेगा इसको repeat कर देखा अगर मैं इसको loop करना चाहता हूँ आटॉप्ले कर देखा और मैं loop कर देखा सचिन क्या है सचिन में लपूसा सचिन है सचिन क्या है सचिन में तो आपने देखा यह repeat हुई बज़ गई फिर उसके बाद दुबाना से बज़ी क्योंकि loop कर रखी थी मैंने audio सचिन.mp3 loop कर दी मैंने यह एक बार बज़ी फिर बज़ गई सचिन क्या है सचिन बार बार बोले जा रही थी वो क्यूंकि ये जो MP3 है वो बार बार play होगी तो कई उस case इसके कि आप जब चाहोगे कि MP3 है repeat हो तो अगर आप चाहते हो कि आपकी MP3 repeat हो तो आप इसको जो एक उस कर सकते हो अब इसके बाद जो है क्या करेगा, mute कर देगा audio को और देफिनिटली आप नहीं चाहते कि बार बार आपकी audio mute हो most of the cases में हम कभी कभी चाहेंगे कि जो audio हो वो muted हो और हम यहाँ पर बोल सकते हैं उसको सुननी हो, unmute करते सकते हैं ऐसा कभ करते हैं, हम multiple audio होती हैं आप 5-6 audio एक साथ दिखाना चाहते हैं आप mute कर सकते हैं उनको जो मन चाहें user आपका play करके unmute करके देख सकता है, तो आपके हाथ में control है, यह आप चाहो तो इस चीज़ को यूज़ कर सकते हो, टीके, कुल बिलाकर यह बात है, तो I hope कि यह चीज़ समझ में आ गई आप लोगों, मज़ा आया होगा आप लोगों को, अब preload सबसे ज़्यादा पर यह समझ नहीं है, तो इस लिए मैंने इसको code with adi.com पर बत खिला हुआ है, कि जो preload attribute है, इस की यह वालियों सकते हैं, पहले वालियों सकते है none, वालियों नहीं, यह प्रे-लोड वालियों है, यह सब प्री लोड अट्रिभीट को नहीं दर जाना। प्री लोड का मतलब पहले से अगर आप चाहते हों कि देटा को प्राउज़र कर ले तब आप डेटा ाइसे बन बन को गरुगे। वरना आप अद्रिभीट को यूज़ नहीं करेंगे। preload is equal to none default value preload is equal to metadata मतलब कि browser सिर्फ metadata या नहीं कि उस audio file के बारे में जो information है उसको preload करेगा या नहीं कि पेले से load करेगा और एक auto करने से क्या होगा कि browser preload करलेगा entire audio को तो preload is equal to auto अगर मैं करूँगा तो ये download हो जाएगी और automatically load हो जाएगी ताकि जब भी user प्लेग करे इसको तो बच जाए audio ठीक है तो preload attribute का ये काम होता है और interviews में बहुत पूछ जाता है यह जो preload attribute है तो आपको पढ़ा होना चाहिए कि बहुँ preload attribute क्या है आगे बढ़ने से पहले मैं चाहता हूँ कि आप इस playlist को share करो अपने दोस्तों के साथ क्योंकि मैं देख रहा हूँ कि यार interest काफ़ी decline हो रहा है जस एसे हैं हम videos में आगे बढ़ते जा रहे हैं मेरी आपलोगों से गुधारी शेयर है कि यार आपलोग इस video को like करो और उसी के साथ साथ जैसे एसे आप इस repository को बहुत सारे लोग पूछ रहे थे कि क्या हम replit का इस्तिमाल कर सकते हैं देखो इस course में मैं ने replit का इस्तिमाल नहीं किया है बढ़ रेपलिट ड़ट कॉम इस एन amazing website अगर आप लोग चाहते हो आप phone में use करो HTML वगएरा अगर आप लोग चलाना चाहते हो रेपलिट की app भी है iOS के लिए भी है Android के लिए भी है तो आप इसको try out कर सकते हैं बहुत सारे लोग पूछ रहे हैं कि यार phone में कैसे करें recording, replit लेकिन मैं अभी क्या चाह रहा हूँ ना कि VS Code जो कि most of the लोग जो है use करना चाहते हैं तो मैंने सुझा कि एक वीडियो बना हूँ वीडियो पर मैं personally गाफ़ी रेपलिट का इस्तमाल करता हूँ इन फार्ट वीडियो भी आते हैं रेपलिट में अगला जो topic है वो SVG है वीडिया से related एक फ़र्माट होता है जिस से कि आप लोग जो है image को create कर सकते हो काफी high graphics वाले vector image तो copy करोगे आप लोग तो इसमें basically circle वगएरह यह सब आप बना सकते हो तो SVG को बिलकुल उसी तरह से use किया जाता है जिस तरह से use किया जाता है हमारे img टाग को तो देखो अगर मैं आपर SVG डालूँगा तो यह SVG यहाँ पर आजागी तो यह circular SVG यहाँ पर आगई वीडियो आउडियो SVG यह inline elements थे इसलिए एक ही हमें line में देखने को मिल रहे हैं ठीक है आप लोग ने यहाँ पर देख लिया अब यहाँ पर क्या है कि आप SVG फाइल को अलग से भी सेव कर सकते हो अलग से SVG फाइल को सेव कर सकते हो जैसे कि मैं अगर यहाँ पर लिख दूं कि img.svg और SVG का content इसमें सेव कर दूं तो अगर मैं यहाँ पर img करके लिखूंगा इसको और एसारसी लिखूंगा img.svg तो आप लोग यहाँ पर देखो कि यह मुझे नहीं देखने को मिली इमेज अगर मैं यहाँ पर ओल्ट लिख दूं और लिखूंगा my svg image तो आप देखना यहाँ पर कि my svg image ऐसे आ गया लेकिन SVG मुझे देखने को नहीं बिली ऐसा क्यों हुआ ऐसा इसलिए हुआ क्योंकि जो svg है svg file in ब्राॉजर मैं लिखता हूँ और svg फाइल आप जब भी ब्राॉजर में चाहेंगे कि आपको दिखे तो आप एक declaration उपर डालेंगे मैं आपको दिखाता हूँ तो मैंने आपर लिखा svg फाइल not showing तो यहाँ पर stack overflow का एक answer है जो कि आपको बता देगा तो आपको न यह लिखना पड़ेगा मैं आपको दिखाता हूँ XML कुछ इस तरह से देखो आपको यह आड़ करना पड़ेगा नेम स्पेस डिकलेरेशन तो यह svg है न आपको यह चीज आड़ करनी पड़ेगी और आप लोग यहाँ पर देखो यह svg दिख गई तो यह चीज बहुत इंबोर्टेंड है और बहुत सारे लोग जब भी वेब साइट बनाओगे आप लोग अपनी अपनी तो इस प्रॉबलम में ज़रूर फसेंगे मैं फसता रहता हूँ ठीक है तो मैं आपको बता रहा हूँ कि जिन प्रॉबलम में आप फसोगे वो पहले ही बता दी मैं आपको प्रॉबलम आही नहीं है मैंने प्रॉबलम भी बता दी कि आना वाली है और सॉलिशियन भी बता दिया अगला टॉपिक है आई फ्रेम्स आई फ्रेम्स भी बहुती सिंपल जी चीज है कि आई फ्रेम्स से आपको एक दूसरी वेब साइट को इंबेड कर सकते हूँ अपनी वेब साइट में जैसे ताकि मैं आगर मैं चाहिं कि ये वेब पेज को मैं एंबेड कर दूं तो मैं कुछ इस तरह से आई फ्रेम्स को इसटिमाल कर के कर सकता हूँ तो देखो मैंने लिखा आई फ्रेम्स ये और इस इस URL को मैं कॉपी करूँगा और यहाँ पर मैं पेस्ट करूँगा और आप लोग यहाँ पर देखो कि यह जो वेबसाइट है पूरी जो है एमबेड होगा है यहाँ पर इतने से आई फ्रेम में ठीक है आप डेफनेटली चाहोगे कि यह बड़े आई फ्रेम में आप लोग तो एक वेबसाइट को आप एमबेड करो पर अगर आप चाहते हो कि यह एमबेड हो जाए तो यह कुछ इस तरह से आप एमबेड कर सकते हो मैं काम करता हूँ इसकी हाइट को थोड़ो सा बढा लेता हूँ तो विट्ट इस इकल तो विट्ट लिखा हुआ है विट्ट इस इकल तो कर देता हूँ मैं लेटा से 122, हाइट इस इकल तो कर देता हूँ 444, ठीक है, मान लो तो यह देखो यह कुछ इस तरह से आ गई, अब डेफनेटली यह इस विट्ट में आ पारी थी तो यह इसी लाइन में आ गई, पर मैं विट्ट को थोड़ा बढा दूं, लेटा से मैं विट्ट को कल दूं, 322, ठीक है, तो यह देखो यह पूरी यहाँ पर एमबेड होग कर सकते थे, जिस पॉइंट पर सटाट करके आप लोग इस्को शेयर करोगे, वो टाईम यहाँ पर आजाता है, जब मैं आपको दिखाता हूँ, रुको। मैं케이 तक Oui plead मैं उपभी जालेकि पक्ते हूँ ना दानी होगा तो सुश से यहाँ प्रह forgive arms करने पछे अपने से alzi ता Interviewer तक he ख़ो ख़ो कूट कूट निक nurt ना How it is सो不द anything curd आज को किरने केually कि डर करता हो यहाँ पर एमबेड हो गया, ठीक है? तो आपको एक चीज़ समझ में आ गई होगी, और Media HTML में सिर्फ इतना ही होता है, प्रिड़ी मच ठीक है, Miscellaneous हर टॉपिक में आपको बहुत सारी चीज़े देखने को मिलेंगी, प्रिड़ी मच ठीक है, यहाँ पर एमेड आगर इस स्टीमल में आडियो, वीडियो, बस इतना ही है, यह आप पर 95% पर देखने को परता है, ठीक है? अब मैं आपको एक खुइज देता हूँ, और आपकी कुईज यह है, कि Create a Website, जो बात के लिए दिखा रहे है, इसे जब वीडियों से दिखीर एक विडियो लिए जूल पर प्रपारय होते है, तीक है? और अडियोँ से दिखर एक काटेगरी से, आप वो एक वीडियो युट्यूब बचने के लिए आपकी त कनरे लिए यूट्यूब वीडियो से लगते है, आपने करना क्या है आप लोगों ने एक वेबसाइड बनानी है जिसमें आपको बहुत सारा content मिलेगा अब आप वीडियो आडियो टैक्स का इस्तमाल करके और यूट्यूब के इस share feature का इस्तमाल करके जिस तरह से मैंने यूट्यूब वीडियो embed किया था आपको बहुत सारा content मिलेगा"
+}

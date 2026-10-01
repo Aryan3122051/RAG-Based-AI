@@ -1,0 +1,7 @@
+
+openai-whisper
+requests
+pandas
+numpy
+joblib
+scikit-learn
